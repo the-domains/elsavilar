@@ -1,0 +1,28 @@
+name: elsavilar
+favicon: null
+layout_spectrum: 0.7769919892307371
+typography_spectrum: 0.9584507956169546
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.07297058217227459
+  lightness: 0.8682483730372041
+  saturation: 0.3937029230874032
+  rhythmicContrast: 0.505928565049544
+purpose: []
